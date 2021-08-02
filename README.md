@@ -1,8 +1,12 @@
+![基于Docker运行的人大金仓Kingbase数据库](./doc/image/WX202108021418082x.jpg)
+
 # 人大金仓数据库管理系统（KingbaseES V8 R3) Docker 镜像
 
 本人使用 MacOS 开发项目，无法安装人大金仓数据库，所以将人大金仓数据库封装到了 Docker，分享出来给各位程序员使用。
 
 使用的人大金仓版本号：V008R003C002B0320
+
+教程文章：[在苹果 MacOS 上基于 Docker 容器运行人大金仓（Kingbase）V8 R3 数据库的教程](https://www.renfei.net/posts/1003506)
 
 ## 构建镜像
 
