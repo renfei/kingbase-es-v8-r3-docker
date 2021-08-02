@@ -1,0 +1,62 @@
+-------------------BEGIN KINGASE.LICENSE.3.0 PRIVATE KEY-------------------
+C2jEV4qxkPiL106gQ3qln52jK4nZLfFmcNhvYAlfQaMEUEkU5XB5ZxA5CCMzc4CjsMFybE
+vye7qLXGRoXTgSEL7I/zqAJH4Pgjtz103k73vcjQQ5UTtnIb3cW7eblGjW7iPk+A3sfw4P
+ATodyPr5mkmLkxc3q+NAYCroVi8x8Z8vga73Wq5SD7g+YZd6uoTxmkOxWPRytYpeHcwDxY
+uS1RVBvaN+34D0Oft0nwRB+mLn8yYwmtwMeWA161C2LjPx8kcJF5jF/Sp8CwW7+cs0Lk5/
+7L2nXyfC1HcdhEoTCiieDylidhEnnC6gpiOEgZzrQWzUxLcLRxIxzzfxu9y0DYP+GLqtcx
+dAB2EGYII+MHaAUo/R1J8OqcfIOKujwd+QUyRa3SEhft9iQX2zBSxwutK66brRgpxLJgPU
+ZZQQlWOVdkPFLfSJLPBbPqGG5w/5od5P8u7VAzsCZnhc8Fx0M5V2Q8Ut9Iks8Fs+oYbnD/
+lX+Hruem+QpMylUDPpzmOdDnroa9hrbhIwZc7T47ZBwNGZaFZxAcLW7QihLnyAr3JiXfLo
+AwiXiQmPa0w/D9k/t+3xZqprGuIqAdYGMw03D4m/cSSpTQT92/TlpyiFkm16LF1AIZ39S5
+OajzAuHatbLkdxQe202xd2RqR/HhM0knKcQnpC00PQu8skS3hU88vtnstWip/+vrutmbKq
+UeGL+jgnaS0A08EmvVXfNON4jfLjDE/9NHcswJemhsFj87t7kTmghh/Uf5k1U7Odp+jloX
+QR1P4Rda3yDktjyI//d1xb+dmOL7bWVAXfZC/gwZWoXPkhJE7jfgd5RhGVdpamJmgmuyUW
+XxqHKqMGPVlnw8iZxcUkvfY8kGe6rFdiLNVNEP5OYTAR7Ouwam/1kKi3MK4hBsIeaCDuGS
+UfH54oGfi583ORSOayIpt1DEysPgh6mt0UOwbgqe3yuzGuVEkDQi9cb0djzbOTX8edyUYx
+DsJc8BetZ3fR30MYa3+1d213fRZE+bOq5K9NLZkzLjRYpXpsQqSzwD5OZtlRfZEkT2kA8s
+IpZU1qGNi5R33ynt3hIuAbBq0YumQymbVAOkx2w2De3NcCfkVMvag9Bdynevi583ORSOay
+Ipt1DEysPggKfcfpjEzdoaeGQ2sTmyo+8PEKCJRS/6lM+yFdPLiiu8GVlr8a8WAbyjvr3N
+7Kfgf9NAJdfcw3IIy8oTnm69qEH81vrpgqblq/HR8fjHXbgEuIYd5HFRHEGQohcRCdakf4
+ufNzkUjmsiKbdQxMrD4Ijo0BMb5iu3DTygNp/EwsgkX27b4819cssGFOlbOy3CUNYlrODq
+/afZMQKvK9ZowdnviaN1EFtldhRKi8btPr9ugFMVynNwk0sDVO+LJ3PTW9OJPO7h1GwBKw
+/5iFfodkrUSYipdHFB90h63XSUzxGtW06pBRoxzhY3+tBG+4br4dWD1dWqKCp3UIApQggN
+QuIu0a9GIcMfvIQnGoasGwRM0JiCDEwgrkjV8qo2lQt7+KESwmi9au8rpDwAT88ovS
+----------------------------------MD5SUM-----------------------------------
+bdc044e2ad46b47b63266d20b1a52c69
+-------------------END KINGASE.LICENSE.3.0 PRIVATE KEY---------------------
+License序列号 --- 启用 --- 15FD7A48-77DE-11EB-B12A-000C29CBE49F
+生产日期 --- 启用 --- 2021-02-26
+产品名称 --- 启用 --- KingbaseES V8
+细分版本模板名 --- 启用 --- SALES-开发版 V8R3
+产品版本号 --- 启用 --- V008R003C
+浮动基准日期 ------ 禁用
+有效期间 --- 启用 --- 0
+用户名称 --- 启用 --- 试用
+项目名称 --- 启用 --- 试用
+CPU检查 --- 启用 --- 0
+MAC地址 --- 启用 --- 00:00:00:00:00:00
+最大连接数 --- 启用 --- 10
+数据同步 --- 启用 --- 0
+物理同步 --- 启用 --- 0
+增量备份恢复 --- 启用 --- 0
+集群对网络故障的容错 --- 启用 --- 0
+集群配置工具 --- 启用 --- 0
+读写分离模块 --- 启用 --- 0
+保密通讯协议 --- 启用 --- 0
+审计 --- 启用 --- 0
+三权分立 --- 启用 --- 0
+密码复杂度 --- 启用 --- 0
+用户锁定 --- 启用 --- 0
+运行状态分析 --- 启用 --- 0
+滚动升级 --- 启用 --- 0
+恢复到指定时间点 --- 启用 --- 0
+快速加载 --- 启用 --- 0
+日志压缩 --- 启用 --- 0
+全文检索 --- 启用 --- 0
+健康检查 --- 启用 --- 0
+并行查询 --- 启用 --- 0
+并行备份还原 --- 启用 --- 0
+日志解析 --- 启用 --- 0
+异构数据源 --- 启用 --- 0
+透明加密 --- 启用 --- 0
+强制访问控制 --- 启用 --- 0
