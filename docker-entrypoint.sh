@@ -4,6 +4,8 @@ DB_PATH=/opt/kingbase
 DATA_DIR=/opt/kingbase/data
 LOG_FILE=${DB_PATH}/logfile
 
+rm -rf ${DATA_DIR}/.DS_Store
+
 check_is_init() {
   declare -g DATABASE_ALREADY_EXISTS
   if [ -d "${DATA_DIR}" -a `ls -A ${DATA_DIR}|wc -w` -ne 0 ];then
@@ -15,10 +17,7 @@ db_init(){
   mkdir -p ${DATA_DIR}
   chown -R kingbase:kingbase ${DATA_DIR}
   cd ${DB_PATH}/Server/bin/
-  extraParams=""
-  if [ "${CASE_INSENSITIVE}" == "true" ];then
-    extraParams="--case-insensitive"
-  fi
+  extraParams="--encoding=UTF8 --case-insensitive"
   ./initdb -USYSTEM -W${SYSTEM_PWD-123456} -E UTF8 ${DATA_DIR} ${extraParams}
 }
 
