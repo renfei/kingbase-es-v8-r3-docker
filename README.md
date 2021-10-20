@@ -36,3 +36,17 @@ docker run -d --name kingbase -p 54321:54321 -e SYSTEM_PWD=SYSTEM -v /opt/kingba
 ![Docker](./doc/image/WX202108021417482x.png)
 
 ![Docker](./doc/image/WX202108021418082x.png)
+
+## 常见问题
+### 启动失败
+- 启动失败，日志报 kingbase: superuser_reserved_connections must be less than max_connections
+- 原因：本仓库中的 license.dat 文件是开发测试版，限制最大连接数为10，而人大金仓配置文件默认连接数为100，导致启动失败。
+- 解决：修改数据目录下的 kingbase.conf 配置文件
+
+ ```bash
+ max_connect = 10
+ superuser_reserved_connections = 5 #小于max_connect
+ super_manager_reserved_connections = 3  #小于superuser_reserved_connections
+ ```
+### FATAL: lock file kingbase.pid already exists
+- 提示：FATAL: lock file kingbase.pid already exists。是因为 docker 容器被关闭了数据库还没来得及停机，我们去数据目录下把 kingbase.pid 文件删除掉即可，数据目录就是上面映射本机目录的，我的教程里是在 /opt/kingbase/data/。
