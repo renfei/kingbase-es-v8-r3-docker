@@ -8,7 +8,37 @@
 
 教程文章：[在苹果 MacOS 上基于 Docker 容器运行人大金仓（Kingbase）V8 R3 数据库的教程](https://www.renfei.net/posts/1003506)
 
+## 拉取镜像
+
+很多同学不太会构建镜像，或者懒得构建镜像，我已经将我的镜像上传至各个仓库：
+
+### Github
+
+[https://github.com/renfei/kingbase-es-v8-r3-docker/pkgs/container/kingbase](https://github.com/renfei/kingbase-es-v8-r3-docker/pkgs/container/kingbase)
+
+```bash
+docker pull ghcr.io/renfei/kingbase:v8r3
+```
+
+### GitLab.cn
+
+[https://gitlab.cn/renfei/kingbase-es-v8-r3-docker/container_registry/218](https://gitlab.cn/renfei/kingbase-es-v8-r3-docker/container_registry/218)
+
+```bash
+docker pull registry.gitlab.cn/renfei/kingbase-es-v8-r3-docker:v8r3
+```
+
+### GitLab.com
+
+[https://gitlab.com/renfei/kingbase-es-v8-r3-docker/container_registry/2430544](https://gitlab.com/renfei/kingbase-es-v8-r3-docker/container_registry/2430544)
+
+```bash
+docker pull registry.gitlab.com/renfei/kingbase-es-v8-r3-docker:v8r3
+```
+
 ## 构建镜像
+
+如果您想自己构建镜像可参照以下操作：
 
 ```bash
 git clone https://github.com/renfei/kingbase-es-v8-r3-docker.git
