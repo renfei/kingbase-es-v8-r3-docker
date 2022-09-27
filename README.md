@@ -20,15 +20,15 @@
 docker pull ghcr.io/renfei/kingbase:v8r3
 ```
 
-### GitLab.cn
+### 极狐 GitLab
 
-[https://gitlab.cn/renfei/kingbase-es-v8-r3-docker/container_registry/218](https://gitlab.cn/renfei/kingbase-es-v8-r3-docker/container_registry/218)
+[https://jihulab.com/renfei/kingbase-es-v8-r3-docker/container_registry/218](https://jihulab.com/renfei/kingbase-es-v8-r3-docker/container_registry/218)
 
 ```bash
-docker pull registry.gitlab.cn/renfei/kingbase-es-v8-r3-docker:v8r3
+docker pull registry.jihulab.com/renfei/kingbase-es-v8-r3-docker:v8r3
 ```
 
-### GitLab.com
+### GitLab
 
 [https://gitlab.com/renfei/kingbase-es-v8-r3-docker/container_registry/2430544](https://gitlab.com/renfei/kingbase-es-v8-r3-docker/container_registry/2430544)
 
